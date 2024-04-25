@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:MovieCatalog.ViewModels"
+             x:Class="MovieCatalog.Views.MovieDetailPage"
+             x:DataType="vm:MovieViewModel"
+             Title="Movie">
+    <Grid RowDefinitions="Auto,Auto,Auto,Auto" ColumnDefinitions="Auto,*" Margin="10">
+        <Label Text="Title:" Grid.Row="0" />
+        <Label Text="Year:" Grid.Row="1" />
+        <Label Text="Studio:" Grid.Row="2" />
+        <Label Text="Director:" Margin="0,0,5,0" Grid.Row="3" />
+
+        <Label Text="{Binding Title}" Grid.Row="0" Grid.Column="1" />
+        <Label Text="{Binding Year, StringFormat='{0:yyyy}'}" Grid.Row="1" Grid.Column="1" />
+        <Label Text="{Binding Studio}" Grid.Row="2" Grid.Column="1" />
+        <Label Text="{Binding Director}" Grid.Row="3" Grid.Column="1" />
+    </Grid>
+</ContentPage>

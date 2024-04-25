@@ -1,0 +1,182 @@
+[
+    {
+      "title": "Back to the Future",
+      "studio": "Universal Pictures",
+      "year": 1985,
+      "director": "Robert Zemeckis"
+    },
+    {
+      "title": "The Goonies",
+      "studio": "Warner Bros",
+      "year": 1985,
+      "director": "Richard Donner"
+    },
+    {
+      "title": "Top Gun",
+      "studio": "Paramount Pictures",
+      "year": 1986,
+      "director": "Tony Scott"
+    },
+    {
+      "title": "Ferris Bueller's Day Off",
+      "studio": "Paramount Pictures",
+      "year": 1986,
+      "director": "John Hughes"
+    },
+    {
+      "title": "Die Hard",
+      "studio": "20th Century Fox",
+      "year": 1988,
+      "director": "John McTiernan"
+    },
+    {
+      "title": "Rain Man",
+      "studio": "United Artists",
+      "year": 1988,
+      "director": "Barry Levinson"
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "studio": "Paramount Pictures",
+      "year": 1989,
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Batman",
+      "studio": "Warner Bros",
+      "year": 1989,
+      "director": "Tim Burton"
+    },
+    {
+      "title": "Home Alone",
+      "studio": "20th Century Fox",
+      "year": 1990,
+      "director": "Chris Columbus"
+    },
+    {
+      "title": "Pretty Woman",
+      "studio": "Touchstone Pictures",
+      "year": 1990,
+      "director": "Garry Marshall"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "studio": "TriStar Pictures",
+      "year": 1991,
+      "director": "James Cameron"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "studio": "Orion Pictures",
+      "year": 1991,
+      "director": "Jonathan Demme"
+    },
+    {
+      "title": "Aladdin",
+      "studio": "Walt Disney Pictures",
+      "year": 1992,
+      "director": "Ron Clements, John Musker"
+    },
+    {
+      "title": "Reservoir Dogs",
+      "studio": "Miramax Films",
+      "year": 1992,
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "Jurassic Park",
+      "studio": "Universal Pictures",
+      "year": 1993,
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Schindler's List",
+      "studio": "Universal Pictures",
+      "year": 1993,
+      "director": "Steven Spielberg"
+    },
+    {
+      "title": "Forrest Gump",
+      "studio": "Paramount Pictures",
+      "year": 1994,
+      "director": "Robert Zemeckis"
+    },
+    {
+      "title": "The Lion King",
+      "studio": "Walt Disney Pictures",
+      "year": 1994,
+      "director": "Roger Allers, Rob Minkoff"
+    },
+    {
+      "title": "Pulp Fiction",
+      "studio": "Miramax Films",
+      "year": 1994,
+      "director": "Quentin Tarantino"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "studio": "Columbia Pictures",
+      "year": 1994,
+      "director": "Frank Darabont"
+    },
+    {
+      "title": "Toy Story",
+      "studio": "Pixar Animation Studios",
+      "year": 1995,
+      "director": "John Lasseter"
+    },
+    {
+      "title": "Braveheart",
+      "studio": "Paramount Pictures",
+      "year": 1995,
+      "director": "Mel Gibson"
+    },
+    {
+      "title": "Se7en",
+      "studio": "New Line Cinema",
+      "year": 1995,
+      "director": "David Fincher"
+    },
+    {
+      "title": "Apollo 13",
+      "studio": "Universal Pictures",
+      "year": 1995,
+      "director": "Ron Howard"
+    },
+    {
+      "title": "Heat",
+      "studio": "Warner Bros",
+      "year": 1995,
+      "director": "Michael Mann"
+    },
+    {
+      "title": "Casino",
+      "studio": "Universal Pictures",
+      "year": 1995,
+      "director": "Martin Scorsese"
+    },
+    {
+      "title": "Clueless",
+      "studio": "Paramount Pictures",
+      "year": 1995,
+      "director": "Amy Heckerling"
+    },
+    {
+      "title": "Jumanji",
+      "studio": "TriStar Pictures",
+      "year": 1995,
+      "director": "Joe Johnston"
+    },
+    {
+      "title": "GoldenEye",
+      "studio": "United Artists",
+      "year": 1995,
+      "director": "Martin Campbell"
+    },
+    {
+      "title": "Die Hard with a Vengeance",
+      "studio": "20th Century Fox",
+      "year": 1995,
+      "director": "John McTiernan"
+    }
+  ]
