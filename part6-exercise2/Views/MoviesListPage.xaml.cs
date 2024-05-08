@@ -7,9 +7,9 @@ public partial class MoviesListPage : ContentPage
 		InitializeComponent();
 	}
 
-    private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+    private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
-        Navigation.PushAsync(new Views.MovieDetailPage());
+        await Navigation.PushAsync(new Views.MovieDetailPage());
     }
 
     private void MenuItem_Clicked(object sender, EventArgs e)

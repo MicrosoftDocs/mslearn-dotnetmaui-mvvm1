@@ -7,10 +7,10 @@ public partial class MoviesListPage : ContentPage
 		InitializeComponent();
 	}
 
-    private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+    private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
 		ViewModels.MovieViewModel movie = (ViewModels.MovieViewModel)e.Item;
-		Navigation.PushAsync(new Views.MovieDetailPage(movie));
+		await Navigation.PushAsync(new Views.MovieDetailPage(movie));
     }
 
     private void MenuItem_Clicked(object sender, EventArgs e)
