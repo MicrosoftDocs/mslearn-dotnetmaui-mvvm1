@@ -16,6 +16,6 @@ public partial class MoviesListPage : ContentPage
     {
         MenuItem menuItem = (MenuItem)sender;
         ViewModels.MovieViewModel movie = (ViewModels.MovieViewModel)menuItem.BindingContext;
-        App.MainViewModel.DeleteMovie(movie);
+        App.MainViewModel?.DeleteMovie(movie);
     }
 }
